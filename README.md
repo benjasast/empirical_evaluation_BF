@@ -11,7 +11,7 @@ Instructions for replication:
   
   a. create the consumption of households
   b. calculate financial protection indicators
-  c. and produce all the figures and tables in the papper (non-formatted)
+  c. and produce all the figures and tables in the paper (non-formatted)
 
 In case of any doubt please contact,
 Benjamin Sas Trakinsky: bsastrak@uwo.ca , bsas@fen.uchile.cl
