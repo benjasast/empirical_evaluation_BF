@@ -1,6 +1,5 @@
 # empirical_evaluation_BF
-Code to replicate "An Empirical Evaluation of the Performance of Financial Protection Indicators:  Evidence from Burkina Faso"
-Data comes from the Enquête Multisectorielle Continue 2014 (EMC 2014), part of the LSMS-ISA surveys.
+Code to replicate "An Empirical Evaluation of the Performance of Financial Protection Indicators for UHC monitoring: Evidence from Burkina Faso". The data comes from the Enquête Multisectorielle Continue 2014 (EMC 2014), part of the LSMS-ISA surveys.
 
 
 Instructions for replication:
