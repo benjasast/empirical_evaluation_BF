@@ -5,7 +5,7 @@ Code to replicate "An Empirical Evaluation of the Performance of Financial Prote
 Instructions for replication:
 1. Press clone or download, and procceed to download all the files.
 2. Go into the do-file folder and open the file "a01_run_everything.do"
-3. Mofidy the local user (in line 19) with the location where all the folders you have just downloaded are. (Do_Files, Tables_Figures, Output_Files, Input_Files).
+3. Mofidy the local user (in line 19) with the location of the replication folder in your system. (Do_Files, Tables_Figures, Output_Files, Input_Files).
 4. Run the do-file "a01_run_everything.do", which will run all code used to:
   
   a. create the consumption of households
