@@ -12,8 +12,11 @@ Instructions for replication:
   b. calculate financial protection indicators
   c. and produce all the figures and tables in the paper (non-formatted)
 
-In case of any doubt please contact,
+In case of any doubt about the code contact:
 Benjamin Sas Trakinsky: bsastrak@uwo.ca , bsas@fen.uchile.cl
+
+For doubts about the paper contact:
+Karen Grépin: kgrepin@wlu.ca
 
 The raw data can alternatively be downloaded at:
 http://microdata.worldbank.org/index.php/catalog/2538
