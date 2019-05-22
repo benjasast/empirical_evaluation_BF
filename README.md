@@ -13,7 +13,7 @@ Instructions for replication:
   c. and produce all the figures and tables in the paper (non-formatted)
 
 In case of any doubt about the code contact:
-Benjamin Sas Trakinsky: bsastrak@uwo.ca , bsas@fen.uchile.cl
+Benjamin Sas Trakinsky: bsastrak@uwo.ca , bsastrakinsky@wlu.ca
 
 For doubts about the paper contact:
 Karen Grépin: kgrepin@wlu.ca
